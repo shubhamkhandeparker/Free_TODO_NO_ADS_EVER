@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Shubham Khande Parker** - shubhamkhandeparker@example.com
+**Shubham Khande Parker** - khandeparkershubhamoff01@gmail.com
 
 Project Link: [https://github.com/shubhamkhandeparker/Free_TODO_NO_ADS_EVER](https://github.com/shubhamkhandeparker/Free_TODO_NO_ADS_EVER)
 
